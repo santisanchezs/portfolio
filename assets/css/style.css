@@ -427,7 +427,6 @@ section {
   flex-direction: column;
   margin: auto;
   padding: 10px;
-  padding-bottom: 10%;
   max-width: 350px;
   margin-bottom: 20px;
   border-radius: 10px;
@@ -445,13 +444,12 @@ section {
 }
 
 .skill {
-  height: 48px;
-  width: min-content;
   margin: 15px;
 }
 
 .skill p {
   margin-top: 5px;
+  margin-bottom: 0;
   color: #272829;
   font-size: 15px;
 }
