@@ -386,28 +386,42 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
-.about .content h3 {
-  font-weight: 700;
-  font-size: 25px;
-  color: #343A40;
-}
-
-.about .content h5 {
-  font-weight: 500;
-  color: #0563bb;
+.about .avatar {
+  width: 100%;
+  max-width: 300px;
+  padding: 1.5rem;
 }
 
 .about .img-fluid {
   border-radius: 10%;
   box-shadow: 0px 0 20px 0 rgba(0, 0, 0, 0.20);
 }
+
+.about .description {
+  max-width: 500px;
+}
+
+.about .description h3 {
+  font-weight: 700;
+  font-size: 25px;
+  color: #343A40;
+}
+
+.about .description h4 {
+  font-weight: 500;
+  font-size: 20px;
+  color: #0563bb;
+}
+
 .about .container {
   max-width: 80%;
 }
+
 .about .row {
   justify-content:center;
   align-items: center;
 }
+
 .about button,
 .about button:hover,
 .about button:focus {
