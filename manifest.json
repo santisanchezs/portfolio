@@ -1,0 +1,36 @@
+{   "lang": "en-US",
+    "short_name": "Portfolio",
+    "name": "Santiago Sanchez - Portfolio",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "assets/img/favicon512x512.svg",
+        "type": "image/svg+xml",
+        "sizes": "512x512"
+      },
+      {
+        "src": "assets/img/favicon192x192.svg",
+        "type": "image/svg+xml",
+        "sizes": "192x192"
+      },
+      {
+        "src": "assets/img/favicon512x512.svg",
+        "type": "image/svg+xml",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/index",
+    "background_color": "#fff",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#fff",
+
+    "description": "Portfolio de Santiago Sanchez, front-end developer especializado en HTML, CSS, JavaScript y desarrollo de aplicaciones web interactivas y accesibles.",
+    "screenshots": [
+      {
+        "src": "assets/img/miniature540x720.svg",
+        "type": "image/svg+xml",
+        "sizes": "540x720"
+      }
+    ]
+  }
