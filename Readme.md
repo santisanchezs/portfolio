@@ -15,16 +15,7 @@ Soy un amante de la tecnología que da vida a las ideas con HTML, CSS y JavaScri
 * UI/UX Design
 
 ## Proyectos
-A continuación, te muestro algunos de los proyectos en los que he trabajado:
-
-[Nombre del proyecto](link al proyecto)
-Breve descripción del proyecto y las tecnologías utilizadas.
-
-[Nombre del proyecto](link al proyecto)
-Breve descripción del proyecto y las tecnologías utilizadas.
-
-[Nombre del proyecto](link al proyecto)
-Breve descripción del proyecto y las tecnologías utilizadas.
+Ahora mismo estoy trabajando en mis proyectos
 
 ## Contacto
 ¡Gracias por visitar mi portafolio! Si estás interesado en trabajar conmigo o simplemente quieres decir hola, puedes contactarme en mi correo electrónico (santiagosanchez@pm.me) o en mi perfil de LinkedIn (linkedin.com/in/santisanchezs). Estoy emocionado de escuchar de ti y trabajar en proyectos juntos.
